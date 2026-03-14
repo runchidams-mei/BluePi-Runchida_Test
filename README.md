@@ -13,9 +13,9 @@
 
 Install dependencies
 
-npm install
+>> npm install
 
 Run the test
 
-npx playwright test
+>> npx playwright test
 
