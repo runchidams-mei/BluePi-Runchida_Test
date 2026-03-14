@@ -1,6 +1,8 @@
 ## What is tested
 - Add a new task
-- completed
+- completed to add
+- select checkbox to deleted
+- completed delete
 
 ## Tools
 - Playwright
@@ -17,6 +19,3 @@ Run the test
 
 npx playwright test
 
-Open test report
-
-npx playwright show-report
